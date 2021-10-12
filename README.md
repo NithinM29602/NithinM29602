@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning AI, Reading books, I Love to play cricket. 
 - 🌱 I’m currently learning B.E (CSE)
 
-- 📫 How to reach me nithinm29602@gmail.com
+- 📫 Reach me through mail nithinm29602@gmail.com
 
 <!---
 NithinM29602/NithinM29602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
