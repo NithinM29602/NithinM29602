@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nithin M
-- 👀 I’m interested in learning AI, Reading books, I Love to play cricket. 
+- 👀 I’m passionately learning AI/ML, Reading books, I Love to play cricket. 
 - 🌱 I’m currently learning B.E (CSE)
 
 - 📫 Reach me through mail nithinm29602@gmail.com
