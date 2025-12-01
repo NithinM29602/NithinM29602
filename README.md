@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nithin M
 - 👀 I’m passionately learning AI/ML, Reading books, I Love to play cricket. 
-- 🌱 I’m currently learning B.E (CSE)
+- 🌱 I’m currently Chilling
 
 - 📫 Reach me through mail nithinm29602@gmail.com
 
